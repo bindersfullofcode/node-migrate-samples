@@ -1,0 +1,19 @@
+{
+  "name": "ticket-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "camelize": "^1.0.0",
+    "express": "^4.14.0",
+    "migrate": "^0.2.3",
+    "rxjs": "^5.0.0-beta.11",
+    "sqlite3": "^3.1.4"
+  }
+}
