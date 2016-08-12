@@ -1,0 +1,14 @@
+{
+    "test": {
+        "driver": "sqlite3",
+        "filename": "ticketer-test.db"
+    },
+    "development": {
+        "driver": "sqlite3",
+        "filename": "ticketer-dev.db"
+    },
+    "production": {
+        "driver": "sqlite3",
+        "filename": "ticketer.db"
+    }
+}
